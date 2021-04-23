@@ -1,0 +1,66 @@
+#header {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  background-image: url(images/archive.jpg);
+}
+
+h1 {
+  color: #ffee00;
+  font: 40px Georgia;
+  text-align: center;
+}
+
+.descript {
+  width: 300px;
+  color: #ffee00;
+  font-style: italic;
+  text-align: right;
+  font-size: 22px;
+  float: left
+}
+
+.headerBtn {
+  float: right;
+  font-size: 10px;
+}
+
+#bar{
+  position: relative;
+  background-color: #808080;
+  width: 100%;
+  height: 40px;
+  margin-bottom: auto;  
+  margin-top: auto;
+}
+
+.btn-group{
+  position: relative;
+  float: left;
+  color:#CCCC00;
+}
+
+#mainBlock{
+  position: absolute;
+  width: 100%;
+  height: auto;
+  margin-bottom: auto;
+  background-color: #C0C0C0;
+}
+
+#inBlock{
+  position: relative;
+  width: 100%;
+  height: 1000px;
+  margin-bottom: auto;
+  background-color: #FFFFFF;
+  width: 90%;
+  margin: auto;
+} 
+
+#footer{
+  position: relative;
+  background-color: #C0C0C0;
+  width: 100%;
+  height: 200px;
+}
