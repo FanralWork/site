@@ -1,3 +1,6 @@
+* {
+  font-size: 14pt;
+}
 body {
   background-color: #c0c0c0;
   display: flex;
@@ -33,6 +36,10 @@ h1 {
 main {
   width: 90%;
   background-color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 footer {
